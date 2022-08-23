@@ -1,0 +1,16 @@
+body {
+    color: white;
+    background: pink;
+    }
+    .heading{
+        width: 90%;
+        font-size: 22px;
+    }
+    .name_of_objects, #result_object_name, #result_object_accuracy {
+        color: rgb(176, 128, 186);
+    }
+    #camera{
+        border:2px dashed rgb(176, 128, 186);
+        height: 300px;
+        width: 350px;
+    }
